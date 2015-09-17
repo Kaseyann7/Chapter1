@@ -9,6 +9,11 @@ namespace Initials
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("BBBBBB    TTTTTTTTTTT");
+            Console.WriteLine("B    B         T");
+            Console.WriteLine("BBBBBB         T");
+            Console.WriteLine("B    B         T");
+            Console.WriteLine("BBBBBB         T");
         }
     }
 }
