@@ -9,6 +9,8 @@ namespace Quotation
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("We cannot learn without pain.");
+            Console.WriteLine("Aristotle");
         }
     }
 }
